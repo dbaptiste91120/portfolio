@@ -24,3 +24,7 @@ h1 {
   text-align: center;
   color: #00ffec;
 }
+
+a{
+  word-spacing: 1em;
+}
