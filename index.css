@@ -2,3 +2,6 @@ body{
   background-color: red;
 }
 
+section p{
+  text-align: right;
+}
