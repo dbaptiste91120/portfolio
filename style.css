@@ -28,3 +28,12 @@ h1 {
 a{
   border-spacing: 5px;
 }
+
+#h1_veille {
+  text-align: left;
+  color: black;
+}
+
+#p_veille{
+  padding-left: 10px;
+}
